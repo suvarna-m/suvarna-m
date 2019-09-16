@@ -12,4 +12,4 @@ I current live in Vancouver, British Columbia, and was raised in the Greater Tor
 
 ### Contact me
 
-Email me: [suvarnamoharir@gmail.com](mailto:suvarnamoharir@gmail.com) <br/>
+Email me: [suvarnamoharir@gmail.com](mailto:suvarnamoharir@gmail.com) 
