@@ -4,8 +4,6 @@ title: My First Blog Post
 date: 2019-09-16
 ---
 
-Hello! My name is Suvarna, and I am a student in the Master of Data Science Program at the University of British Columbia. I also have a degree in Epidemiology and Biostatistics from the University of Western Ontario. 
-
 This block, we are taking 4 courses:
 - Data Science 511: Programming for Data Science
 - Data Science 542: Communication and Argumentation
