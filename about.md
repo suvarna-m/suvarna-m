@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-Some information about you!
+Hello!
+My name is Suvarna Moharir, and I am a student in the Master of Data Science Program at the University of British Columbia. I also have a degree in Epidemiology and Biostatistics from the University of Western Ontario.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I current live in Vancouver, British Columbia, and was raised in the Greater Toronto Area (Go Raptors!). 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email me: [suvarnamoharir@gmail.com](mailto:suvarnamoharir@gmail.com)
+Connect with me on LinkedIn: https://www.linkedin.com/in/suvarnamoharir 
