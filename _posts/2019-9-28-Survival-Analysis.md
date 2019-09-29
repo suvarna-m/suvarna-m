@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Survival Analysis and Kaplan-Meier Survival Curves
+title: Survival Analysis
 date: 2019-09-28
 ---
-
 
 Imagine yourself in a doctor’s office. The doctor tells you that you have esophageal cancer, and explains that the possible treatments are surgery alone, or a combination of surgery and chemoradiotherapy. As a patient, you are likely left wondering which treatment option leads to a better chance of survival. Your physician can use survival analysis to give you a clearer picture. 
 
