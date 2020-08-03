@@ -6,7 +6,7 @@
 name: Suvarna Moharir
 
 # Short bio or description (displayed in the header)
-description: Data Science Graduate Student at University of British Columbia
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/54830458?s=460&v=4
@@ -20,9 +20,9 @@ footer-links:
   email: suvarnamoharir@gmail.com
   facebook:
   flickr:
-  github: https://github.com/suvarna-m
+  github: suvarna-m
   instagram:
-  linkedin: https://www.linkedin.com/in/suvarnamoharir
+  linkedin: suvarnamoharir
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
